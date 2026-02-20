@@ -1,0 +1,98 @@
+[
+  {
+    "name": "01.jpg",
+    "path": "exampleSite/assets/images/gallery/01.jpg",
+    "sha": "662fc1dc287c7ba874dc893c74511dddbb45a84d",
+    "size": 76179,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/01.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/01.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/662fc1dc287c7ba874dc893c74511dddbb45a84d",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Hugoplate/main/exampleSite/assets/images/gallery/01.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/01.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/662fc1dc287c7ba874dc893c74511dddbb45a84d",
+      "html": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/01.jpg"
+    }
+  },
+  {
+    "name": "02.jpg",
+    "path": "exampleSite/assets/images/gallery/02.jpg",
+    "sha": "22fb37f883df656e23eeb2f2009c76d4e55b8317",
+    "size": 713428,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/02.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/02.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/22fb37f883df656e23eeb2f2009c76d4e55b8317",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Hugoplate/main/exampleSite/assets/images/gallery/02.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/02.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/22fb37f883df656e23eeb2f2009c76d4e55b8317",
+      "html": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/02.jpg"
+    }
+  },
+  {
+    "name": "03.jpg",
+    "path": "exampleSite/assets/images/gallery/03.jpg",
+    "sha": "cea735f6f9e397ae45e66aebecbe5d56b408b2bc",
+    "size": 259550,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/03.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/03.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/cea735f6f9e397ae45e66aebecbe5d56b408b2bc",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Hugoplate/main/exampleSite/assets/images/gallery/03.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/03.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/cea735f6f9e397ae45e66aebecbe5d56b408b2bc",
+      "html": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/03.jpg"
+    }
+  },
+  {
+    "name": "04.jpg",
+    "path": "exampleSite/assets/images/gallery/04.jpg",
+    "sha": "48d7c32bedeeab560cf088287e46d58762efb678",
+    "size": 59892,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/04.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/04.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/48d7c32bedeeab560cf088287e46d58762efb678",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Hugoplate/main/exampleSite/assets/images/gallery/04.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/04.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/48d7c32bedeeab560cf088287e46d58762efb678",
+      "html": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/04.jpg"
+    }
+  },
+  {
+    "name": "05.jpg",
+    "path": "exampleSite/assets/images/gallery/05.jpg",
+    "sha": "09878097d5c513c00d78719d598e42eb322b6ca1",
+    "size": 215325,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/05.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/05.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/09878097d5c513c00d78719d598e42eb322b6ca1",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Hugoplate/main/exampleSite/assets/images/gallery/05.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/05.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/09878097d5c513c00d78719d598e42eb322b6ca1",
+      "html": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/05.jpg"
+    }
+  },
+  {
+    "name": "06.jpg",
+    "path": "exampleSite/assets/images/gallery/06.jpg",
+    "sha": "662fc1dc287c7ba874dc893c74511dddbb45a84d",
+    "size": 76179,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/06.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/06.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/662fc1dc287c7ba874dc893c74511dddbb45a84d",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Hugoplate/main/exampleSite/assets/images/gallery/06.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/contents/exampleSite/assets/images/gallery/06.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Hugoplate/git/blobs/662fc1dc287c7ba874dc893c74511dddbb45a84d",
+      "html": "https://github.com/emonkhanx68-cloud/Hugoplate/blob/main/exampleSite/assets/images/gallery/06.jpg"
+    }
+  }
+]
